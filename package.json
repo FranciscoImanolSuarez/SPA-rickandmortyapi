@@ -1,0 +1,11 @@
+{
+  "name": "spa-vainilla",
+  "version": "1.0.0",
+  "description": "Aplicacion del curso de SPA de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imanol Suarez",
+  "license": "MIT"
+}
