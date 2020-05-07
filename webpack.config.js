@@ -23,10 +23,10 @@ module.exports = {
         ]
     },
     plugins: [
-        new HtmlWebpackPlugin([{ //template principal
+        new HtmlWebpackPlugin({ //template principal
             inject: true,
             template: './public/index.html',
             filename: './index.html',
-        }])
+        }),
     ]
 }
