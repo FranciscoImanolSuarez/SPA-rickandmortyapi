@@ -8,7 +8,6 @@ const Home = () => {
               </a>  
             </article>
         </div>
-    
     `;
     return view;
 }
